@@ -1222,7 +1222,7 @@ select:focus {
 .filter-group select,
 .filter-group input[type="range"] {
   width: 100%;
-  padding: 8px;
+
   border-radius: 8px;
   border: 1px solid #ccc;
   font-size: 0.95rem;
